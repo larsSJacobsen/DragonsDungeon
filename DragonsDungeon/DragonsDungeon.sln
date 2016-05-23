@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragonsDungeon", "DragonsDungeon\DragonsDungeon.csproj", "{942E7D80-84A9-43EC-BCE7-355F6735421F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragonsDungeon.Tests", "DragonsDungeon.Tests\DragonsDungeon.Tests.csproj", "{A5F24F91-C00C-4E34-B6EF-78B2E0B377E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{942E7D80-84A9-43EC-BCE7-355F6735421F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{942E7D80-84A9-43EC-BCE7-355F6735421F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{942E7D80-84A9-43EC-BCE7-355F6735421F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{942E7D80-84A9-43EC-BCE7-355F6735421F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5F24F91-C00C-4E34-B6EF-78B2E0B377E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5F24F91-C00C-4E34-B6EF-78B2E0B377E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5F24F91-C00C-4E34-B6EF-78B2E0B377E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5F24F91-C00C-4E34-B6EF-78B2E0B377E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
